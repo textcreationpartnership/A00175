@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iniunctions geuen by the reuerende father in God Richarde by Gods prouidence Bishop of Elye aswell to the clergie as to the church wardens and inquirers of euery seueral parishe within his dioces, to be obserued and kept of euery of them in their offices and callynges as to them shall apperteyne, for the aduauncement of Gods honour, for the increase of vertue, and for good order to be continued within his sayde dioces.</title>
+            <author>Church of England. Diocese of Ely. Bishop (1559-1581 : Cox)</author>
+         </titleStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A00175</idno><idno type="EEBO-CITATION">23025557</idno>
+  <idno type="VID">26099</idno>
+  <idno type="EEBO-PROQUEST">2240959157</idno>
+  <idno type="STC">STC 10194.3</idno>
+  <idno type="STC">ESTC S2096</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A00175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26099)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1795:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iniunctions geuen by the reuerende father in God Richarde by Gods prouidence Bishop of Elye aswell to the clergie as to the church wardens and inquirers of euery seueral parishe within his dioces, to be obserued and kept of euery of them in their offices and callynges as to them shall apperteyne, for the aduauncement of Gods honour, for the increase of vertue, and for good order to be continued within his sayde dioces.</title>
+                  <author>Church of England. Diocese of Ely. Bishop (1559-1581 : Cox)</author>
+                  <author>Cox, Richard, 1500-1581.</author>
+               </titleStmt>
+               <extent>[11] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted at London in Powles Churchyarde by Richarde Jugge ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1571?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of imprint suggested by STC (2nd ed.).</note>
+                  <note>Signatures: 1⁴ 2².</note>
+                  <note>Reproduction of original in the St. John's College (University of Cambridge). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Pastoral letters and charges.</term>
+               <term type="topical_term">Visitations, Ecclesiastical --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_clerical_injunctions">
+            <pb facs="tcp:26099:1"/>
+            <pb facs="tcp:26099:1"/>
+            <head>¶ <hi>Iniunctions geuen by the Reuerende father in God <hi>Richarde by Gods prouidence</hi> Bishop of Elye, aswell to the Clergie as to the Church war<g ref="char:EOLhyphen"/>dens and Inquirers of eue<g ref="char:EOLhyphen"/>ry seueral parishe within his Dioces,</hi> to be obserued and kept of euery of them in their offices and callynges as to them shall apperteyne, for the aduance<g ref="char:EOLhyphen"/>ment of Gods honour, for the increase of vertue, and for good order to be conti<g ref="char:EOLhyphen"/>nued within his sayde Dio<g ref="char:EOLhyphen"/>ces.</head>
+            <div type="part">
+               <head>❧ For the Clergie.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">I</seg>N primis,</hi> you must tra<g ref="char:EOLhyphen"/>uaile diligently &amp; pain<g ref="char:EOLhyphen"/>fully to set foorth gods true religion, and to adourne the same with example of godly lyfe, being circumspect that you offende no man ey<g ref="char:EOLhyphen"/>ther by lyght behaui<g ref="char:EOLhyphen"/>our or vncomely appa<g ref="char:EOLhyphen"/>rell.</p>
+               <pb facs="tcp:26099:2"/>
+               <p>
+                  <hi>Item,</hi> you shall euery seconde Sunday &amp; euery Holyday, openly in the Churche heare and in<g ref="char:EOLhyphen"/>struct all the chyldren and seruantes of both sexes within your parishe, or at the least so ma<g ref="char:EOLhyphen"/>ny of them at once by course, as the tyme wyll serue, and as you may well heare and instructe, for halfe an houre at the least before euenyng prayer, in the ten commaundementes, the arti<g ref="char:EOLhyphen"/>cles of the beliefe, and the Lordes prayer, and di<g ref="char:EOLhyphen"/>ligently examine and teache them in the Cathe<g ref="char:EOLhyphen"/>chisme set foorth in the booke of common prayer</p>
+               <p>
+                  <hi>Item,</hi> to thintent this thing may be more effec<g ref="char:EOLhyphen"/>tually executed, ye shall take the names of all the chyldren and seruauntes of both sexes in your parishe, that be of conuenient age and cannot say the Cathechisme, and shall call by course cer<g ref="char:EOLhyphen"/>teyne of them by name, euery seconde Sunday and euery Holy day, to come to the Cathechisme, whereby you may easyly note &amp; perceaue what parentes or maisters and dames be negligent in sendyng their chyldren and seruauntes to be in<g ref="char:EOLhyphen"/>structed, and take occasion thereof both priuyly and openly to exhort them to sende their youth as they are appoynted.</p>
+               <p>
+                  <hi>Item,</hi> you shall not admit to the receauyng of the holy communion, any of your parishe which be openlye knowen to lyue in any notorious sinne without repentaunce, or any malicious person that is out of charitie, vnlesse the same do first charitablie and openly reconcile hym or her selfe agayne, to the satisfaction of the congrega<g ref="char:EOLhyphen"/>tion.</p>
+               <pb facs="tcp:26099:2"/>
+               <p>
+                  <hi>Item,</hi> you shall not admit to the holy commu<g ref="char:EOLhyphen"/>nion any of your parishe, men, or women, being aboue twentie yeres of age, that can not saye by heart the ten commaundementes, the articles of the fayth, and the Lordes prayer: nor any being aboue twelue yeres, and vnder twentie yeres of age, that can not say by heart the Cathechisme that is set foorth in the booke of cōmon prayer. And you shall vse to examine your parishioners at conuenient times, to thintent you may know whether they can say the same whiche is aboue required.</p>
+               <p>
+                  <hi>Item,</hi> you shall reade openly in your Churche in tyme of diuine seruice, twise euery yere, vpon some of the Sundayes within one moneth next after the feastes of Easter and saint Michael the archangel, a declaration of certayne principall articles of Religion, set foorth by both the Arch<g ref="char:EOLhyphen"/>bishoppes and the rest of the Bishoppes of this Realme for vnitie of doctrine.</p>
+               <p>
+                  <hi>Item,</hi> you shall preache or cause to be preached in the Churches where you are Parsons or Vi<g ref="char:EOLhyphen"/>cars, one sermon euery quarter of the yere at the least.</p>
+               <p>
+                  <hi>Item,</hi> none of you shall serue two cures at one tyme, without speciall licence vnder your Ordi<g ref="char:EOLhyphen"/>naries seale.</p>
+               <p>
+                  <hi>Item,</hi> no Curate shall serue any Cure within this Dioces, without speciall licence vnder your Ordinaries seale.</p>
+               <pb facs="tcp:26099:3"/>
+               <p>
+                  <hi>Item,</hi> that euery Parson, Vicar, and Curate, shall vse in the tyme of the celebration of diuine seruice, to weare a surplesse, prescribed by the Queenes maiesties Iniunctions and the booke of Common prayer, and shall kepe and obserue all other rightes and orders prescribed in the same booke of Common prayer &amp; Iniunctions, aswell about the celebration of the sacramentes, as also in their comely and priestlyke apparell, to be worne accordyng to the precept set foorth in the booke called Aduertisementes.</p>
+            </div>
+            <div type="part">
+               <head>¶ For the Churchwardens and Inquirers.</head>
+               <p>
+                  <hi>IN primis,</hi> that all Churchwardens within the dioces of Elie, shal vpon their othes duely and truely certifie in the ende of euery quarter of the yere, from tyme to tyme, all such matters as hereafter ensue, to the Chauncelour or his depu<g ref="char:EOLhyphen"/>tie vpon some court day, and in the Consistorie the tyme of his sitting.</p>
+               <p>
+                  <hi>Item,</hi> whether the Queenes maiesties In<g ref="char:EOLhyphen"/>iunctions be quarterly read by the Parson, Vi<g ref="char:EOLhyphen"/>car, or Curate.</p>
+               <p>
+                  <hi>Item,</hi> whether one sermon at the least be quar<g ref="char:EOLhyphen"/>terly preached in your parishe Churche, accor<g ref="char:EOLhyphen"/>dyng to the saide Iniunctions, and by whom the same sermon is preached.</p>
+               <p>
+                  <hi>Item,</hi> whether your Parson, Vicar, or Curate, do reade once vpon some Sunday within one
+<pb facs="tcp:26099:3"/>moneth next after Easter, and once vpon some Sunday within one moneth next after Micha<g ref="char:EOLhyphen"/>elmas yerely, a declaration of certayne princi<g ref="char:EOLhyphen"/>pall articles of religion, set foorth by the Arche<g ref="char:EOLhyphen"/>bishops and Bishoppes of this Realme for vni<g ref="char:EOLhyphen"/>tie of doctrine.</p>
+               <p>
+                  <hi>Item,</hi> whether your Parson, Vicar, or Curate do reade vpon the Sundayes and holydayes the Homilees set foorth by publique aucthoritie, where there is no sermon, and in suche sort as they are appoynted to reade the same in the booke of the Homilees.</p>
+               <p>
+                  <hi>Item,</hi> whether your Parson, Vicar, or Curate, do teache the youth of your parishe vpon euery holyday, and euery seconde Sunday in the yere, the Cathechisme set foorth in the booke of pub<g ref="char:EOLhyphen"/>lique prayer.</p>
+               <p>
+                  <hi>Item,</hi> to certifie and present whether all fa<g ref="char:EOLhyphen"/>thers, mothers, maisters, and dames of your pa<g ref="char:EOLhyphen"/>rishe, cause their chyldren and seruauntes both mankinde and womankinde, beyng of sixe yeres of age, and vnder twentie, whiche haue not lear<g ref="char:EOLhyphen"/>ned the Cathechisme, to come to the Churche euery seconde Sunday, and euery holyday at the tyme appoynted, and obediently to heare and be ordered by your minister, vntill suche tyme as thei haue learned the said Cathechisme by heart, &amp; what be the names of those that do not cause their chyldren and seruauntes so to come to the Churche to be instructed and examined.</p>
+               <pb facs="tcp:26099:4"/>
+               <p>
+                  <hi>Item,</hi> to certifie and present, whether the lay people of your parishe, especially housholders ha<g ref="char:EOLhyphen"/>uing no lawfull excuse to be absent, do faythful<g ref="char:EOLhyphen"/>lye and diligently endeuour them selues to resort to their parishe Churche or Chappell on the ho<g ref="char:EOLhyphen"/>lydayes, and chiefely on the Sundayes to mor<g ref="char:EOLhyphen"/>nyng and euening prayer, and vpon reasonable let therof, to some vsuall place where Common prayer is vsed, and then and there abide orderly and soberly during the time of Common prayer, Homilees, preachyng, and other seruice of God there vsed, and what be the names of those that negligently or wylfully absent them selues, or come very late to the Churche vpon the Sun<g ref="char:EOLhyphen"/>dayes and holydayes, and especially vpon the Sundayes.</p>
+               <p>
+                  <hi>Item,</hi> to certifie and present the names of such of your parishioners as walke, talke, or other<g ref="char:EOLhyphen"/>wyse vnreuerently behaue them selues in the Churche, or vse any gamyng abrode, or in any house, or sit in the streates or Churchyarde, or in any tauerne or alehouse vpon the Sunday, or any other holyday, in the time of Common pray<g ref="char:EOLhyphen"/>er, sermon, or reading of any of the Homilees.</p>
+               <p>
+                  <hi>Item,</hi> to certifie and present, whether the Churchwardens and sworne men haue leuied and gathered of euery that wylfully or negli<g ref="char:EOLhyphen"/>gently absenteth hym or her selfe from their pa<g ref="char:EOLhyphen"/>rishe Church, or vnreuerently behaue him or her selfe in the Churche, in the tyme of diuine ser<g ref="char:EOLhyphen"/>uice vpon the Sundayes or other holydayes, the forfayture of .xii. d. for euerye suche offence,
+<pb facs="tcp:26099:4"/>accordyng to a statute made in the first yere of the Queenes Maiesties raigne that now is, and haue put the same forfaytures to the vse of the poore of that parishe, &amp; what particuler summes of money are quarterly forfayted that way, and by whom and howe muche therof is leuied and deliuered to the collectours of the poore: and if any such forfaytures be not leuied in case of such offence, by whose fault it happeneth that the same are not leuied, and what be the names of such as offende that way, and do not pay the said forfayture.</p>
+               <p>
+                  <hi>Item,</hi> to certifie and present whether there be any Inkepers, Alewyues, Victuellers, or Tip<g ref="char:EOLhyphen"/>lers within your parishe, that admit or suffer any person or persons in their houses, to eate and drynke, to play at tables, cardes, or other games, in tyme of common prayer, preachyng, or reading of the Homilees on the sundayes or holy dayes, or any Butchers, or other, that vse to sell meate or other thynges vpon the sundayes or holydayes in lyke tyme of common prayer, prea<g ref="char:EOLhyphen"/>chyng, or readyng of the Homilees, and what be the names of the persons that so offende.</p>
+               <p>
+                  <hi>Item,</hi> to certifie and present whether you haue collectours for the poore of your parishe, whe<g ref="char:EOLhyphen"/>ther they do their duetie in gatheryng weekely, and distributyng the almes of the poore, accor<g ref="char:EOLhyphen"/>dyng to a statute made in the first yere of the Queenes maiesties raigne, and make a iust ac<g ref="char:EOLhyphen"/>compt therof quarterly.</p>
+               <pb facs="tcp:26099:5"/>
+               <p>
+                  <hi>Item,</hi> to certifie and present quarterly all such persons as be of habilitie, and do obstinately or frowardly refuse to geue reasonablie towardes the reliefe of the poore, or do wylfully discourage others from so charitable a deede, and what their names be.</p>
+               <p>
+                  <hi>Item,</hi> to certifie at the least quarterlye all swearers &amp; blasphemers of Gods holy name, all drunkardes, adulterers, fornicatours, ribauldes, incestuous persons, baudes, or receauers of such incontinent persons, or of straunge women with chylde, whose husbandes are vnknowen, or any persons that are vehemently suspected of such faultes, or that be not of good name and fame touchyng such crymes and faultes, and all sowers of discordes betweene neyghbour and neyghbour, within your parishe.</p>
+               <p>
+                  <hi>Item,</hi> to certifie whether any Curate presume to serue in any parishe without licence from the Ordinarie in writyng and vnder seale, or serue two Cures without speciall licence therfore: and whether any licenced to serue any Cure, do not weare at the celebration of the diuine seruice and sacramentes a comely surplesse, &amp; obserueth all other rightes &amp; orders prescribed in the booke of Common prayer, and the Queenes maiesties Iniunctions, &amp; in the booke of Aduertisemētes.</p>
+               <p>
+                  <hi>Item,</hi> to certifie whether the parishe haue a Bible of their owne, the booke of Common pray<g ref="char:EOLhyphen"/>er, a Psalter, the two bookes of Homylees, the booke called the Paraphrases of Erasmus, or ra<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:26099:5"/>the common places of <hi>Musculus,</hi> and other bookes requisite, as Iniunction, the Declarati<g ref="char:EOLhyphen"/>on, and Aduertisementes.</p>
+               <p>
+                  <hi>Item,</hi> to certifie lykewyse whether the quier be comely and orderly kept, whether they haue a fayre &amp; comely table for the holy Communion, with a fayre lynnen cloth to laye vpon the same, and some coueryng of silke, buckeram, or suche lyke, for the cleane kepyng therof.</p>
+               <p>
+                  <hi>Item,</hi> whether the east wall of the quier be hanged with a fayre cloth, and the paper of the ten commaundementes fastened in the myddest therof.</p>
+               <p>
+                  <hi>Item,</hi> whether the table touchyng the degrees of matrimonie, last set foorth by the Reuerende father in God Matthew Archbishop of Cantur<g ref="char:EOLhyphen"/>burie, be fastened in some conuenient place in the Churche.</p>
+               <p>
+                  <hi>Item,</hi> to certifie whether there be any within this Dioces that haue maryed within de<g ref="char:EOLhyphen"/>grees of affinitie or consanguinitie, by the lawes of God forbidden, and set foorth in a table for an admonition: Any man that hath two wyues, or any woman that hath two husbandes, any that beyng diuorced or seperated asyde, hath ma<g ref="char:EOLhyphen"/>ryed agayne, any maryed that haue made pre<g ref="char:EOLhyphen"/>contractes, any that haue made priuie or secrete contractes, any that haue maryed without banes thrise solemnely asked, any couples mary<g ref="char:EOLhyphen"/>ed that lyues not together, but slaunderouslye
+<pb facs="tcp:26099:6"/>lyue a part, any that haue maryed out of the pa<g ref="char:EOLhyphen"/>rishe where they ought to haue the same solem<g ref="char:EOLhyphen"/>nized.</p>
+               <p>
+                  <hi>Item,</hi> to certifie whether your ministers kepe their Registers of maryages, buryalles, and christtenynges well and orderly, and to present the copie of them once a yere by indenture, to the Ordinarie or his officers.</p>
+               <p>
+                  <hi>Item,</hi> to certifie whether there be any in your parishe which minister the goodes of those that be dead without aucthoritie, any executours that haue not fulfylled their testators wyl, speci<g ref="char:EOLhyphen"/>ally in paying of legacies geuen to good &amp; godly vses, as to reliefe of the pouertie, to poore schol<g ref="char:EOLhyphen"/>lers, orphans, hygh wayes, maryage of poore maydens, and such lyke.</p>
+               <p>
+                  <hi>Item,</hi> whether there be any persons that in<g ref="char:EOLhyphen"/>trude them selues and presume to exercise any kynde of ministerie in the Churche of God, with<g ref="char:EOLhyphen"/>out imposition of handes and ordinarie auctho<g ref="char:EOLhyphen"/>ritie: Or any beyng once priest or minister, that doth not minister, nor resort to the common prayer nowe vsed, and at tymes appoynted com<g ref="char:EOLhyphen"/>municate: and whether any such do go and vse hym selfe lyke a laye man.</p>
+               <closer>
+                  <signed>R. E.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="oath">
+            <pb facs="tcp:26099:6"/>
+            <head>❧ The othe for the <hi>Churchwardens and others,</hi> beside their vsual othe.</head>
+            <p>YE shall diligently and indifferently marke all persons of your parishe, which come into the Churche after the begynnyng of the seruice, or depart out of the Churche before all the seruice be fully ended, and tell them roundely of their faultes: in case any of them wyll not amende, ye shall sende worde from tyme to tyme to your Ordinarie.</p>
+            <p>Also ye shall demaunde and receaue of all per<g ref="char:EOLhyphen"/>sons being absent from all the Morning prayer, or all Euening prayer vpon the holy dayes. xii. d. to the vse of the poore, yf any person refuse pay<g ref="char:EOLhyphen"/>ment, then distrayne tyll it be payde.</p>
+            <p>Ye shall alowe no excuse, vnlesse it be thought lawfull by two of you at the least.</p>
+            <closer>
+               <signed>R. E.</signed>
+            </closer>
+            <closer>God saue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London in Powles <hi>Churchyarde by Ricarde Jugge,</hi> Printer to the Queenes Maiestie.</p>
+            <p>Cum priuilegio Regiae Maiestatis.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
